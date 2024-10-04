@@ -8,11 +8,9 @@ Atualmente, estou me especializando na **área de dados**, com foco em **Power B
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/api.png" alt="APIs" width="50" height="50"/>
 </p>
 
 ## Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/pedro-duarte)
+- [LinkedIn]([https://www.linkedin.com/in/pedro-duarte](https://www.linkedin.com/in/pedro-duarte-15a542220/))
 - [GitHub](https://github.com/seu-usuario)
