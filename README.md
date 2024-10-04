@@ -6,7 +6,7 @@ Atualmente, estou me especializando na **área de dados**, com foco em **Power B
 
 ## Áreas de interesse:
 
-<p align="center">
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
 </p>
