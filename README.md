@@ -12,5 +12,5 @@ Atualmente, estou me especializando na **área de dados**, com foco em **Power B
 </p>
 
 ## Conecte-se comigo:
-- [LinkedIn](https://www.linkedin.com/in/pedro-duarte)
+- [LinkedIn](https://www.linkedin.com/in/pedro-duarte-15a542220/)
 - [GitHub](https://github.com/seu-usuario)
